@@ -1,2 +1,2 @@
-# nduncan0.github.io
+# ndunc0.github.io
 Portfolio Site
